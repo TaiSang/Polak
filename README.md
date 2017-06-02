@@ -1,8 +1,7 @@
 # Polak
+一个使用 [python3](https://www.python.org/) 开发的博客系统
 
-一个使用 [python3](https://www.python.org/) 开发的博客系统     
-
-作者: [LiwenChii](https://github.com/LiwenChii) 、[ZhongHao](https://github.com/zh826256645)
+> 作者: [LiwenChii](https://github.com/LiwenChii) 、[ZhongHao](https://github.com/zh826256645)
 
 ## 系统技术栈
 
