@@ -3,7 +3,7 @@
 
 > 作者: [LiwenChii](https://github.com/LiwenChii) 、[ZhongHao](https://github.com/zh826256645)
 
-## 系统技术栈
+## 技术栈
 
 * 开发环境: Window + [Docker](https://www.docker.com/)     
 
